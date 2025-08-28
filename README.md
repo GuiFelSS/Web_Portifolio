@@ -3,7 +3,7 @@
 </div>
 
 # Meu Portifólio
-
+# [Link (clique aqui)](https://github.com/GuiFelSS/Portif-lio-Code)
 **Bem-vindo(a) ao meu canto na internet!** Este portfólio é onde eu apresento meus trabalhos feitos dentro e fora do ambiente acadêmico e tudo o que venho aprendendo na minha jornada em **Análise e Desenvolvimento de Sistemas**.
 
 A criação deste projeto foi uma jornada de pesquisa, inspiração e, claro, muito código para tirá-lo do papel. Utilizando **Next.js**, busquei criar um espaço que demonstrasse **minhas habilidades** e a evolução do meu trabalho. Apesar de não ser um especialista em design, foquei em criar uma boa experiência de usuário, para que o destaque fosse o que realmente importa: **as soluções e os projetos desenvolvidos**.
